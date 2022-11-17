@@ -1,0 +1,21 @@
+.Titre0 {
+    color: rgb(81, 81, 123);
+    text-align: center;
+}
+.Titre1 {
+    color: blue;
+}
+.imagegauche {
+    float:left;
+}
+.centraliserimage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.centralisertexte {
+    text-align: center;
+}
+#couleurbleu {
+    background-color: blue;
+}
